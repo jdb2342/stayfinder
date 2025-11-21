@@ -1,0 +1,4 @@
+stayfinder_backend/node_modules/
+stayfinder_backend/.env
+coverage/
+npm-debug.log*
